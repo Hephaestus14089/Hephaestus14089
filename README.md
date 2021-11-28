@@ -1,5 +1,5 @@
 
-[![Bhargav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hephaestus14089&show_icons=true&theme=radical)](https://github.com/Hephaestus14089/github-readme-stats)
+[![Bhargav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hephaestus14089&show_icons=true&theme=gruvbox)](https://github.com/Hephaestus14089/github-readme-stats)
 
 <!--
 **Hephaestus14089/Hephaestus14089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
