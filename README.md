@@ -19,7 +19,6 @@
 * 📚 Books
 * 🌱 Gardening
 * ⚽ Football
-<!--
 * ✊🏿 Organised resistance
 
 ```
@@ -43,7 +42,6 @@
     ####'                                      #####
     ~##                                          ##~
 ```
--->
 
 ### My GitHub stats
 [![Bhargav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hephaestus14089&show_icons=true&theme=tokyonight)](https://github.com/Hephaestus14089/github-readme-stats)
