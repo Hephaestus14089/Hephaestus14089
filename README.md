@@ -1,5 +1,4 @@
 ### Hello, I am Bhargav
-<p style="text-align: center;">Tech enthusiast | Art lover | Marxist</p>
 * _I am greatly inspired by the 'free' software movement_
 * _I am a Linux enthusiast_
 * _I find applications with decentralised architectures (blockchain, p2p) fascinating_
