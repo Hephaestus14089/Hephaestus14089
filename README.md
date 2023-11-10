@@ -15,7 +15,7 @@
 
 ### Some areas of interest apart from tech,
 * 🎬 Cinema
-* 📚 Books
+* 📚 Books (not self-help shit)
 * 🌱 Gardening
 * ⚽ Football
 * ✊🏿 Organising resistance and mobilisation
