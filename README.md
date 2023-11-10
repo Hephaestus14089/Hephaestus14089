@@ -1,8 +1,7 @@
 ### Hello, I am Bhargav
 * _I am greatly inspired by the 'free' software movement_
-* _I am a Linux enthusiast_
-* _I find applications with decentralised architectures (blockchain, p2p) fascinating_
-* _I am also interested in Penetration Testing_
+* _I am a GNU/Linux enthusiast_
+* _I find decentralised architectures fascinating_
 
 ```
         .--.
@@ -19,7 +18,7 @@
 * 📚 Books
 * 🌱 Gardening
 * ⚽ Football
-* ✊🏿 Organised resistance
+* ✊🏿 Organising resistance and mobilisation
 
 ```
 
