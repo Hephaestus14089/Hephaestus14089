@@ -47,6 +47,14 @@
 ### My GitHub stats
 [![Bhargav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hephaestus14089&show_icons=true&theme=tokyonight)](https://github.com/Hephaestus14089/github-readme-stats)
 
+<p align="center">
+    <a href="https://thebsd.github.io/StandWithPalestine">
+        <img
+            src="https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg"
+            alt="Stand With Palestine"
+        />
+    </a>
+</p>
 
 <!--
 **Hephaestus14089/Hephaestus14089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
