@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 ### Hello, I am Bhargav
 * _I am greatly inspired by the 'free' software movement_
 * _I am a GNU/Linux enthusiast_
