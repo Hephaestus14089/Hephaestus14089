@@ -1,4 +1,4 @@
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+<!--[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)-->
 
 ### Hello, I am Bhargav
 * _I am greatly inspired by the 'free' software movement_
@@ -20,8 +20,9 @@
 * ⚽ Football
 * 📚 Reading
 * 🌱 Gardening
-* ✊🏿 Organising
+<!--* ✊🏿 Organising-->
 
+<!--
 ```
 
                  !#########       #
@@ -43,10 +44,12 @@
     ####'                                      #####
     ~##                                          ##~
 ```
+-->
 
 ### My GitHub stats
 [![Bhargav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hephaestus14089&show_icons=true&theme=tokyonight)](https://github.com/Hephaestus14089/github-readme-stats)
 
+<!--
 <p align="center">
     <a href="https://thebsd.github.io/StandWithPalestine">
         <img
@@ -55,3 +58,4 @@
         />
     </a>
 </p>
+-->
